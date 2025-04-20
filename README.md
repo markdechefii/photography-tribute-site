@@ -1,5 +1,5 @@
 📐 DESIGN OVERVIEW:
-Theme: Chaos in Photography (Anime-inspired)
+Theme: Manga Art in Photography 
 Color Scheme: Grayscale + Crimson Accent
 Layout:
   - Header with title and quote
