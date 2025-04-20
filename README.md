@@ -1,5 +1,3 @@
-# photography-tribute-site
-<!--
 📐 DESIGN OVERVIEW:
 Theme: Chaos in Photography (Anime-inspired)
 Color Scheme: Grayscale + Crimson Accent
